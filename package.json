@@ -1,0 +1,19 @@
+{
+  "name": "python-bottle-api",
+  "version": "1.0.0",
+  "description": "A Small Python API",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulKabira/python-bottle-api.git"
+  },
+  "author": "Aakash More",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/paulKabira/python-bottle-api/issues"
+  },
+  "homepage": "https://github.com/paulKabira/python-bottle-api#readme"
+}
